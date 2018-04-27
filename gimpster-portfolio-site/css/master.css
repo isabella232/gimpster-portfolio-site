@@ -1,0 +1,22 @@
+#skills {
+    list-style-type: disc;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    list-style-position: inside;
+}
+
+#intro {
+    position: relative;
+    top: -15px;
+}
+
+.hasGoogleVoiceExt {
+    background: gainsboro;
+}
+
+.hasGoogleVoiceExt a {
+    color: black;
+    font-family: helvetica;
+    text-decoration: none;
+}
